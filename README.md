@@ -30,11 +30,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMRICHASFUCK&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 🤝 Connect
-<p align="center">
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/twitter/follow/yourusername?style=social"/></a>
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9c1de7,100:ff0a54&height=120&section=footer"/>
-=======
