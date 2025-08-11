@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0a54,100:9c1de7&height=200&section=header&text=AMRICHASFUCK&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
 
-<h2 align="center">Hi, I'm AMRICH 👋</h2>
+<h2 align="center">Hi, I'm AMRICHASFUCK 👋</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AMRICHASFUCK&style=flat-square&color=ff69b4"/>
