@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0a54,100:9c1de7&height=200&section=header&text=AMRICH%20ASF%20FUCK&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0a54,100:9c1de7&height=200&section=header&text=AMRICHASFUCK&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
 
 <h2 align="center">Hi, I'm AMRICH 👋</h2>
 
