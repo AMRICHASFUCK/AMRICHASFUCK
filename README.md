@@ -11,7 +11,7 @@
 ### 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,C"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp"/>
 </p>
 
 ### 💻 About Me
