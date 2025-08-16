@@ -18,7 +18,7 @@
 - 🔥 Passionate about building modern web and mobile applications.
 - 🌱 Currently learning cloud infrastructure and clean architecture.
 - 💬 Ask me about automation, open source, or game design.
-- ⚡ Fun fact: I enjoy customizing README files to make profiles shine.
+- ⚡ Fun fact: I enjoy customizing README files to make profiles shine. (ChatGPT ;))
 
 ### 📊 Stats
 <p align="center">
